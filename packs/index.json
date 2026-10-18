@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "about": "Skinny Jon Quiz Night question packs. The game reads this file to find the newest monthly pack.",
+  "packs": []
+}
