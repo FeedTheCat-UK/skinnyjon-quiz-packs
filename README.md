@@ -29,3 +29,13 @@ On the TV's setup screen the host taps **Check for new packs**, reviews every qu
 - `cat`: `news` (shows as "This Month"), or one of `gk history sport football geography science music filmtv fooddrink motoring`.
 - `source`: a link that proves the answer. Every question needs one.
 - Keep it UK-pub-quiz friendly: no politics-baiting, nothing grim or tragic as quiz fodder.
+
+## Picture questions and Spot the Ball (`media/`)
+- `media/pictures.json` — `{"v":1,"built":"…","pics":[…],"balls":[…]}`, loaded by the game at start-up.
+- `media/img/` — the pictures (WebP, about 50 KB each).
+- A picture question: `{"id","cat","q","img","a","w":[3 wrong],"fx":"none|pix|zoom","ar":width/height,"credit","zx","zy"}`.
+  `fx: pix` starts blocky and sharpens; `zoom` starts close up (on `zx,zy`) and pulls back.
+- A Spot the Ball photo: `{"id","img","bx","by","ar","credit"}` — `bx,by` is where the ball was (0–1 across and down); the ball has been painted out of the picture.
+- Every picture is free to use: flags from flag-icons (MIT), country outlines from Natural Earth (public domain), photos from
+  Wikimedia Commons under their own free licences. The `credit` line is shown under each picture in the game — keep it.
+- `tools/validate_media.py` checks the file and that every picture exists.

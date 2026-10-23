@@ -1,0 +1,2610 @@
+{
+"v": 1,
+"built": "2026-10-23T18:35Z",
+"pics": [
+{
+"id": "pf-es",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-es.webp",
+"a": "Spain",
+"w": [
+"Kosovo",
+"Montenegro",
+"Slovenia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-mx",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-mx.webp",
+"a": "Mexico",
+"w": [
+"Guatemala",
+"El Salvador",
+"Nicaragua"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ca",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ca.webp",
+"a": "Canada",
+"w": [
+"United States",
+"El Salvador",
+"Trinidad and Tobago"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-in",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-in.webp",
+"a": "India",
+"w": [
+"Afghanistan",
+"Sri Lanka",
+"Bangladesh"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-se",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-se.webp",
+"a": "Sweden",
+"w": [
+"Ireland",
+"Norway",
+"Lithuania"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-nl",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-nl.webp",
+"a": "Netherlands",
+"w": [
+"Switzerland",
+"Germany",
+"Luxembourg"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-gb",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-gb.webp",
+"a": "United Kingdom",
+"w": [
+"Lithuania",
+"Ireland",
+"Sweden"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-gr",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-gr.webp",
+"a": "Greece",
+"w": [
+"Montenegro",
+"Malta",
+"Spain"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ro",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ro.webp",
+"a": "Romania",
+"w": [
+"Bulgaria",
+"Belarus",
+"Moldova"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-hu",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-hu.webp",
+"a": "Hungary",
+"w": [
+"Slovakia",
+"Russia",
+"Romania"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-eg",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-eg.webp",
+"a": "Egypt",
+"w": [
+"Libya",
+"Morocco",
+"Sudan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-be",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-be.webp",
+"a": "Belgium",
+"w": [
+"Netherlands",
+"Luxembourg",
+"Germany"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-sa",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-sa.webp",
+"a": "Saudi Arabia",
+"w": [
+"Syria",
+"Armenia",
+"Israel"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ru",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ru.webp",
+"a": "Russia",
+"w": [
+"Hungary",
+"Ukraine",
+"Poland"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ir",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ir.webp",
+"a": "Iran",
+"w": [
+"Pakistan",
+"Maldives",
+"Afghanistan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-sn",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-sn.webp",
+"a": "Senegal",
+"w": [
+"Sierra Leone",
+"Niger",
+"Guinea-Bissau"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-gt",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-gt.webp",
+"a": "Guatemala",
+"w": [
+"Panama",
+"Honduras",
+"Mexico"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-vn",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-vn.webp",
+"a": "Vietnam",
+"w": [
+"Brunei",
+"Laos",
+"Myanmar"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-my",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-my.webp",
+"a": "Malaysia",
+"w": [
+"Singapore",
+"Laos",
+"Vietnam"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-hk",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-hk.webp",
+"a": "Hong Kong",
+"w": [
+"South Korea",
+"Mongolia",
+"Japan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-so",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-so.webp",
+"a": "Somalia",
+"w": [
+"Zimbabwe",
+"Djibouti",
+"Rwanda"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-kh",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-kh.webp",
+"a": "Cambodia",
+"w": [
+"Timor-Leste",
+"Philippines",
+"Vietnam"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-rs",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-rs.webp",
+"a": "Serbia",
+"w": [
+"Italy",
+"North Macedonia",
+"Bosnia and Herzegovina"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-az",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-az.webp",
+"a": "Azerbaijan",
+"w": [
+"Saudi Arabia",
+"Armenia",
+"Cyprus"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-mm",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-mm.webp",
+"a": "Myanmar",
+"w": [
+"Cambodia",
+"Timor-Leste",
+"Singapore"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-uz",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-uz.webp",
+"a": "Uzbekistan",
+"w": [
+"Kazakhstan",
+"Tajikistan",
+"Kyrgyzstan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-hn",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-hn.webp",
+"a": "Honduras",
+"w": [
+"Panama",
+"Guatemala",
+"Costa Rica"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-zm",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-zm.webp",
+"a": "Zambia",
+"w": [
+"Tanzania",
+"Eritrea",
+"Comoros"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ph",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ph.webp",
+"a": "Philippines",
+"w": [
+"Cambodia",
+"Laos",
+"Thailand"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-lb",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-lb.webp",
+"a": "Lebanon",
+"w": [
+"Kuwait",
+"Israel",
+"Jordan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-et",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-et.webp",
+"a": "Ethiopia",
+"w": [
+"South Sudan",
+"Eritrea",
+"Mauritius"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-kr",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-kr.webp",
+"a": "South Korea",
+"w": [
+"Macao",
+"Hong Kong",
+"Mongolia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-mg",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-mg.webp",
+"a": "Madagascar",
+"w": [
+"Mauritius",
+"Tanzania",
+"Burundi"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-tg",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-tg.webp",
+"a": "Togo",
+"w": [
+"Mali",
+"Burkina Faso",
+"Gambia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-co",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-co.webp",
+"a": "Colombia",
+"w": [
+"Uruguay",
+"Peru",
+"Ecuador"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ye",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ye.webp",
+"a": "Yemen",
+"w": [
+"Bahrain",
+"Syria",
+"Cyprus"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-jo",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-jo.webp",
+"a": "Jordan",
+"w": [
+"Oman",
+"Cyprus",
+"Turkey"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ve",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ve.webp",
+"a": "Venezuela",
+"w": [
+"Paraguay",
+"Ecuador",
+"Guyana"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ua",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ua.webp",
+"a": "Ukraine",
+"w": [
+"Poland",
+"Moldova",
+"Belarus"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-np",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-np.webp",
+"a": "Nepal",
+"w": [
+"Bangladesh",
+"India",
+"Afghanistan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-sy",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-sy.webp",
+"a": "Syria",
+"w": [
+"Armenia",
+"Lebanon",
+"Georgia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-lk",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-lk.webp",
+"a": "Sri Lanka",
+"w": [
+"Iran",
+"Afghanistan",
+"Nepal"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-il",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-il.webp",
+"a": "Israel",
+"w": [
+"Oman",
+"Lebanon",
+"Palestine"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-cz",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-cz.webp",
+"a": "Czech Republic",
+"w": [
+"Ukraine",
+"Belarus",
+"Moldova"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-cu",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-cu.webp",
+"a": "Cuba",
+"w": [
+"Haiti",
+"Jamaica",
+"Dominican Republic"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-bj",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-bj.webp",
+"a": "Benin",
+"w": [
+"Guinea",
+"Mauritania",
+"Cabo Verde"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-kp",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-kp.webp",
+"a": "North Korea",
+"w": [
+"Hong Kong",
+"Japan",
+"South Korea"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-th",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-th.webp",
+"a": "Thailand",
+"w": [
+"Myanmar",
+"Timor-Leste",
+"Laos"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-iq",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-iq.webp",
+"a": "Iraq",
+"w": [
+"United Arab Emirates",
+"Oman",
+"Azerbaijan"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-by",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-by.webp",
+"a": "Belarus",
+"w": [
+"Romania",
+"Slovakia",
+"Hungary"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-gn",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-gn.webp",
+"a": "Guinea",
+"w": [
+"Senegal",
+"Ghana",
+"Cabo Verde"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ml",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ml.webp",
+"a": "Mali",
+"w": [
+"Nigeria",
+"Ghana",
+"Ivory Coast"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-la",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-la.webp",
+"a": "Laos",
+"w": [
+"Timor-Leste",
+"Thailand",
+"Singapore"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-zw",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-zw.webp",
+"a": "Zimbabwe",
+"w": [
+"Zambia",
+"Mozambique",
+"Somalia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-bd",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-bd.webp",
+"a": "Bangladesh",
+"w": [
+"Sri Lanka",
+"Nepal",
+"Maldives"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ci",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ci.webp",
+"a": "Ivory Coast",
+"w": [
+"Gambia",
+"Niger",
+"Sierra Leone"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-za",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-za.webp",
+"a": "South Africa",
+"w": [
+"Botswana",
+"Namibia",
+"Lesotho"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-ao",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-ao.webp",
+"a": "Angola",
+"w": [
+"Central African Republic",
+"DR Congo",
+"Equatorial Guinea"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-bi",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-bi.webp",
+"a": "Burundi",
+"w": [
+"Mauritius",
+"Malawi",
+"Zambia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "pf-py",
+"cat": "geography",
+"q": "Which country's flag is this?",
+"img": "img/flag-py.webp",
+"a": "Paraguay",
+"w": [
+"Colombia",
+"Uruguay",
+"Bolivia"
+],
+"fx": "none",
+"ar": 1.333,
+"credit": "Flag: flag-icons (MIT)"
+},
+{
+"id": "ps-fr",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-fr.webp",
+"a": "France",
+"w": [
+"Switzerland",
+"Belgium",
+"Germany"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-gb",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-gb.webp",
+"a": "United Kingdom",
+"w": [
+"Ireland",
+"Lithuania",
+"Sweden"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-eg",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-eg.webp",
+"a": "Egypt",
+"w": [
+"Libya",
+"Sudan",
+"Algeria"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-za",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-za.webp",
+"a": "South Africa",
+"w": [
+"Botswana",
+"Namibia",
+"Lesotho"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-pt",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-pt.webp",
+"a": "Portugal",
+"w": [
+"Croatia",
+"Bosnia and Herzegovina",
+"North Macedonia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-it",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-it.webp",
+"a": "Italy",
+"w": [
+"Spain",
+"Slovenia",
+"Albania"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-es",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-es.webp",
+"a": "Spain",
+"w": [
+"Bosnia and Herzegovina",
+"Albania",
+"Croatia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ie",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ie.webp",
+"a": "Ireland",
+"w": [
+"Norway",
+"Denmark",
+"Sweden"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-jp",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-jp.webp",
+"a": "Japan",
+"w": [
+"Taiwan",
+"South Korea",
+"North Korea"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-in",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-in.webp",
+"a": "India",
+"w": [
+"Bangladesh",
+"Pakistan",
+"Sri Lanka"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-cl",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-cl.webp",
+"a": "Chile",
+"w": [
+"Argentina",
+"Venezuela",
+"Paraguay"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-no",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-no.webp",
+"a": "Norway",
+"w": [
+"Lithuania",
+"Ireland",
+"Sweden"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-br",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-br.webp",
+"a": "Brazil",
+"w": [
+"Ecuador",
+"Paraguay",
+"Peru"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-tr",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-tr.webp",
+"a": "Turkey",
+"w": [
+"Iraq",
+"Saudi Arabia",
+"Georgia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-de",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-de.webp",
+"a": "Germany",
+"w": [
+"Switzerland",
+"Austria",
+"Netherlands"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-tn",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-tn.webp",
+"a": "Tunisia",
+"w": [
+"Algeria",
+"Morocco",
+"Egypt"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-mz",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-mz.webp",
+"a": "Mozambique",
+"w": [
+"Burundi",
+"Zimbabwe",
+"Uganda"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-dz",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-dz.webp",
+"a": "Algeria",
+"w": [
+"Morocco",
+"Egypt",
+"Libya"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-pl",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-pl.webp",
+"a": "Poland",
+"w": [
+"Russia",
+"Hungary",
+"Czech Republic"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-kr",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-kr.webp",
+"a": "South Korea",
+"w": [
+"Mongolia",
+"Japan",
+"Hong Kong"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-mg",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-mg.webp",
+"a": "Madagascar",
+"w": [
+"South Sudan",
+"Burundi",
+"Mozambique"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-kp",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-kp.webp",
+"a": "North Korea",
+"w": [
+"South Korea",
+"China",
+"Hong Kong"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-lk",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-lk.webp",
+"a": "Sri Lanka",
+"w": [
+"Nepal",
+"Afghanistan",
+"India"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-cm",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-cm.webp",
+"a": "Cameroon",
+"w": [
+"Congo",
+"Gabon",
+"Central African Republic"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-zm",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-zm.webp",
+"a": "Zambia",
+"w": [
+"Ethiopia",
+"Mozambique",
+"Uganda"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ir",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ir.webp",
+"a": "Iran",
+"w": [
+"Nepal",
+"Sri Lanka",
+"Pakistan"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-np",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-np.webp",
+"a": "Nepal",
+"w": [
+"India",
+"Iran",
+"Pakistan"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ar",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ar.webp",
+"a": "Argentina",
+"w": [
+"Venezuela",
+"Uruguay",
+"Bolivia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-sn",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-sn.webp",
+"a": "Senegal",
+"w": [
+"Burkina Faso",
+"Niger",
+"Nigeria"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-cn",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-cn.webp",
+"a": "China",
+"w": [
+"South Korea",
+"North Korea",
+"Hong Kong"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-bd",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-bd.webp",
+"a": "Bangladesh",
+"w": [
+"India",
+"Afghanistan",
+"Nepal"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ne",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ne.webp",
+"a": "Niger",
+"w": [
+"Nigeria",
+"Mauritania",
+"Burkina Faso"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-bf",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-bf.webp",
+"a": "Burkina Faso",
+"w": [
+"Niger",
+"Gambia",
+"Nigeria"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ao",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ao.webp",
+"a": "Angola",
+"w": [
+"Chad",
+"Cameroon",
+"Central African Republic"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-bi",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-bi.webp",
+"a": "Burundi",
+"w": [
+"Tanzania",
+"Zambia",
+"Zimbabwe"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-kz",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-kz.webp",
+"a": "Kazakhstan",
+"w": [
+"Turkmenistan",
+"Tajikistan",
+"Kyrgyzstan"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ng",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ng.webp",
+"a": "Nigeria",
+"w": [
+"Ivory Coast",
+"Guinea",
+"Gambia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-mw",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-mw.webp",
+"a": "Malawi",
+"w": [
+"Tanzania",
+"Kenya",
+"Somalia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-bo",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-bo.webp",
+"a": "Bolivia",
+"w": [
+"Chile",
+"Peru",
+"Colombia"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ug",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ug.webp",
+"a": "Uganda",
+"w": [
+"Rwanda",
+"Mozambique",
+"Malawi"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-co",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-co.webp",
+"a": "Colombia",
+"w": [
+"Bolivia",
+"Venezuela",
+"Uruguay"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-zw",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-zw.webp",
+"a": "Zimbabwe",
+"w": [
+"Uganda",
+"Rwanda",
+"Madagascar"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-pe",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-pe.webp",
+"a": "Peru",
+"w": [
+"Bolivia",
+"Brazil",
+"Venezuela"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ru",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ru.webp",
+"a": "Russia",
+"w": [
+"Slovakia",
+"Ukraine",
+"Bulgaria"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-nl",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-nl.webp",
+"a": "Netherlands",
+"w": [
+"France",
+"Austria",
+"Germany"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-ro",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-ro.webp",
+"a": "Romania",
+"w": [
+"Ukraine",
+"Czech Republic",
+"Poland"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-uz",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-uz.webp",
+"a": "Uzbekistan",
+"w": [
+"Tajikistan",
+"Kyrgyzstan",
+"Kazakhstan"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-vn",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-vn.webp",
+"a": "Vietnam",
+"w": [
+"Singapore",
+"Philippines",
+"Thailand"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "ps-cu",
+"cat": "geography",
+"q": "Which country is this?",
+"img": "img/shape-cu.webp",
+"a": "Cuba",
+"w": [
+"Dominican Republic",
+"Puerto Rico",
+"Jamaica"
+],
+"fx": "none",
+"ar": 1,
+"credit": "Map: Natural Earth (public domain)"
+},
+{
+"id": "pfb-david-beckham",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-david-beckham.webp",
+"a": "David Beckham",
+"w": [
+"Harry Kewell",
+"Joe Cole",
+"Matt Le Tissier"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Soccer Aid for Unicef / CC BY 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-roberto-baggio",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-roberto-baggio.webp",
+"a": "Roberto Baggio",
+"w": [
+"Teddy Sheringham",
+"Francesco Totti",
+"Hernán Crespo"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: AbolfaZl0990 / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-dennis-bergkamp",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-dennis-bergkamp.webp",
+"a": "Dennis Bergkamp",
+"w": [
+"Ole Gunnar Solskjær",
+"Teddy Sheringham",
+"Cristiano Ronaldo"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Kieran Clarke / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-zinedine-zidane",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-zinedine-zidane.webp",
+"a": "Zinedine Zidane",
+"w": [
+"Joe Cole",
+"Nicky Butt",
+"Matt Le Tissier"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Hadi Abyar / CC BY 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-paolo-maldini",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-paolo-maldini.webp",
+"a": "Paolo Maldini",
+"w": [
+"Sol Campbell",
+"Sami Hyypiä",
+"Olof Mellberg"
+],
+"fx": "pix",
+"ar": 0.974,
+"credit": "Photo: GOAL TV / CC BY 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-james-milner",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-james-milner.webp",
+"a": "James Milner",
+"w": [
+"Shaun Wright-Phillips",
+"Javier Zanetti",
+"Paul Scholes"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Steffen Prößdorf / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-ole-gunnar-solskj-r",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-ole-gunnar-solskj-r.webp",
+"a": "Ole Gunnar Solskjær",
+"w": [
+"Ruud van Nistelrooy",
+"Cristiano Ronaldo",
+"Francesco Totti"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Tor Atle Kleven / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-wayne-rooney",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-wayne-rooney.webp",
+"a": "Wayne Rooney",
+"w": [
+"Zlatan Ibrahimović",
+"Jimmy Floyd Hasselbaink",
+"Raúl"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: All-Pro Reels from District of Columbia, USA / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-miroslav-klose",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-miroslav-klose.webp",
+"a": "Miroslav Klose",
+"w": [
+"Teddy Sheringham",
+"Roberto Baggio",
+"Les Ferdinand"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Sven Mandel / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-michael-owen",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-michael-owen.webp",
+"a": "Michael Owen",
+"w": [
+"Raúl",
+"Craig Bellamy",
+"Ole Gunnar Solskjær"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: David Seow / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-thierry-henry",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-thierry-henry.webp",
+"a": "Thierry Henry",
+"w": [
+"Raúl",
+"Craig Bellamy",
+"Michael Owen"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Web Summit / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-john-arne-riise",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-john-arne-riise.webp",
+"a": "John Arne Riise",
+"w": [
+"Frank Lampard",
+"Joe Cole",
+"Zinedine Zidane"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Chin Yu Chu / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-patrick-vieira",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-patrick-vieira.webp",
+"a": "Patrick Vieira",
+"w": [
+"Steven Gerrard",
+"Ryan Giggs",
+"Roy Keane"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Simon Heseltine / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-harry-kewell",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-harry-kewell.webp",
+"a": "Harry Kewell",
+"w": [
+"Michael Ballack",
+"Paul Scholes",
+"Patrick Vieira"
+],
+"fx": "pix",
+"ar": 0.848,
+"credit": "Photo: Kevin Airs / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-emile-heskey",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-emile-heskey.webp",
+"a": "Emile Heskey",
+"w": [
+"Nwankwo Kanu",
+"Thierry Henry",
+"Niall Quinn"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Ilya Khokhlov / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-hern-n-crespo",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-hern-n-crespo.webp",
+"a": "Hernán Crespo",
+"w": [
+"Andy Cole",
+"Nwankwo Kanu",
+"Ole Gunnar Solskjær"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: @cfcunofficial (Chelsea Debs) London from London, UK / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-gianfranco-zola",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-gianfranco-zola.webp",
+"a": "Gianfranco Zola",
+"w": [
+"Thierry Henry",
+"Les Ferdinand",
+"Raúl"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: @cfcunofficial (Chelsea Debs) London from London, UK / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-ra-l",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-ra-l.webp",
+"a": "Raúl",
+"w": [
+"Hernán Crespo",
+"Jimmy Floyd Hasselbaink",
+"Niall Quinn"
+],
+"fx": "pix",
+"ar": 1.093,
+"credit": "Photo: Barcex / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-ruud-van-nistelrooy",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-ruud-van-nistelrooy.webp",
+"a": "Ruud van Nistelrooy",
+"w": [
+"Francesco Totti",
+"Jimmy Floyd Hasselbaink",
+"Gianfranco Zola"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Ardfern / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-matt-le-tissier",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-matt-le-tissier.webp",
+"a": "Matt Le Tissier",
+"w": [
+"Harry Kewell",
+"David Beckham",
+"Zinedine Zidane"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: James English / CC BY 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-marcel-desailly",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-marcel-desailly.webp",
+"a": "Marcel Desailly",
+"w": [
+"Nicky Butt",
+"Roy Keane",
+"Danny Murphy"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Barcex / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-roy-keane",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-roy-keane.webp",
+"a": "Roy Keane",
+"w": [
+"Nicky Butt",
+"Matt Le Tissier",
+"Gareth Southgate"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Irish Defence Forces from Ireland / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-tim-howard",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-tim-howard.webp",
+"a": "Tim Howard",
+"w": [
+"Shay Given",
+"Edwin van der Sar",
+"Brad Friedel"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: UKinUSA / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-john-terry",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-john-terry.webp",
+"a": "John Terry",
+"w": [
+"Sol Campbell",
+"Olof Mellberg",
+"Ashley Cole"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: ChristopherJClarke / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-ryan-giggs",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-ryan-giggs.webp",
+"a": "Ryan Giggs",
+"w": [
+"John Arne Riise",
+"Gareth Southgate",
+"Joe Cole"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Дмитрий Голубович / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-michael-ballack",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-michael-ballack.webp",
+"a": "Michael Ballack",
+"w": [
+"Gareth Southgate",
+"Steven Gerrard",
+"Paul Scholes"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Die Bildermacherei Cuxhaven, Kerstin Tietje / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-nwankwo-kanu",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-nwankwo-kanu.webp",
+"a": "Nwankwo Kanu",
+"w": [
+"Paolo Di Canio",
+"Francesco Totti",
+"Hernán Crespo"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Original: Chensiyuan / Derivative work: Danyele / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-nicky-butt",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-nicky-butt.webp",
+"a": "Nicky Butt",
+"w": [
+"Frank Lampard",
+"Zinedine Zidane",
+"Robert Pires"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: nyaa_birdies_perch / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-les-ferdinand",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-les-ferdinand.webp",
+"a": "Les Ferdinand",
+"w": [
+"Zlatan Ibrahimović",
+"Roberto Baggio",
+"Hernán Crespo"
+],
+"fx": "pix",
+"ar": 0.797,
+"credit": "Photo: Brian Minkoff- London Pixels / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-teddy-sheringham",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-teddy-sheringham.webp",
+"a": "Teddy Sheringham",
+"w": [
+"Ole Gunnar Solskjær",
+"Dwight Yorke",
+"Thierry Henry"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Chin Yu Chu / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-dwight-yorke",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-dwight-yorke.webp",
+"a": "Dwight Yorke",
+"w": [
+"Francesco Totti",
+"Raúl",
+"Roberto Baggio"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Deepti Soni / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-steven-gerrard",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-steven-gerrard.webp",
+"a": "Steven Gerrard",
+"w": [
+"Ryan Giggs",
+"Marcel Desailly",
+"Frank Lampard"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Эдгар Брещанов / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-dietmar-hamann",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-dietmar-hamann.webp",
+"a": "Dietmar Hamann",
+"w": [
+"David Beckham",
+"Steven Gerrard",
+"Shaun Wright-Phillips"
+],
+"fx": "pix",
+"ar": 0.906,
+"credit": "Photo: Jonesy702 / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-robert-pires",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-robert-pires.webp",
+"a": "Robert Pires",
+"w": [
+"Roy Keane",
+"David Beckham",
+"Paul Scholes"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Doha Stadium Plus Qatar / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-jimmy-floyd-hasselbaink",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-jimmy-floyd-hasselbaink.webp",
+"a": "Jimmy Floyd Hasselbaink",
+"w": [
+"Paolo Di Canio",
+"Les Ferdinand",
+"Emile Heskey"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Oscarfan123 / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-andy-cole",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-andy-cole.webp",
+"a": "Andy Cole",
+"w": [
+"Les Ferdinand",
+"Miroslav Klose",
+"Emile Heskey"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Norio NAKAYAMA from saitama, japan / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-danny-murphy",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-danny-murphy.webp",
+"a": "Danny Murphy",
+"w": [
+"Frank Lampard",
+"David Beckham",
+"John Arne Riise"
+],
+"fx": "pix",
+"ar": 0.807,
+"credit": "Photo: Nick / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-joe-cole",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-joe-cole.webp",
+"a": "Joe Cole",
+"w": [
+"Danny Murphy",
+"Robert Pires",
+"Javier Zanetti"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Egghead06 / CC BY 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-brad-friedel",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-brad-friedel.webp",
+"a": "Brad Friedel",
+"w": [
+"Tim Howard",
+"Edwin van der Sar",
+"Shay Given"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: James Boyes / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-craig-bellamy",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-craig-bellamy.webp",
+"a": "Craig Bellamy",
+"w": [
+"Les Ferdinand",
+"El Hadji Diouf",
+"Raúl"
+],
+"fx": "pix",
+"ar": 0.988,
+"credit": "Photo: Jon Candy from Cardiff, Wales / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-el-hadji-diouf",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-el-hadji-diouf.webp",
+"a": "El Hadji Diouf",
+"w": [
+"Dwight Yorke",
+"Zlatan Ibrahimović",
+"Emile Heskey"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Alasdair Middleton from Rothesay, Scotland / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-paul-scholes",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-paul-scholes.webp",
+"a": "Paul Scholes",
+"w": [
+"Zinedine Zidane",
+"Shaun Wright-Phillips",
+"Harry Kewell"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: James Adams / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-niall-quinn",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-niall-quinn.webp",
+"a": "Niall Quinn",
+"w": [
+"Ole Gunnar Solskjær",
+"Nwankwo Kanu",
+"Gianfranco Zola"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Russell Watkins/DFID / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-gareth-southgate",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-gareth-southgate.webp",
+"a": "Gareth Southgate",
+"w": [
+"John Arne Riise",
+"Robert Pires",
+"Roy Keane"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Number 10 / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-shay-given",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-shay-given.webp",
+"a": "Shay Given",
+"w": [
+"Tim Howard",
+"Brad Friedel",
+"Edwin van der Sar"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Roger Gorączniak / CC BY 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-javier-zanetti",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-javier-zanetti.webp",
+"a": "Javier Zanetti",
+"w": [
+"Marcel Desailly",
+"Frank Lampard",
+"James Milner"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Илья Хохлов / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-francesco-totti",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-francesco-totti.webp",
+"a": "Francesco Totti",
+"w": [
+"Les Ferdinand",
+"Zlatan Ibrahimović",
+"Hernán Crespo"
+],
+"fx": "pix",
+"ar": 0.799,
+"credit": "Photo: Антон Зайцев / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-cristiano-ronaldo",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-cristiano-ronaldo.webp",
+"a": "Cristiano Ronaldo",
+"w": [
+"Roberto Baggio",
+"Dwight Yorke",
+"El Hadji Diouf"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Bryan Berlin / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-shaun-wright-phillips",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-shaun-wright-phillips.webp",
+"a": "Shaun Wright-Phillips",
+"w": [
+"Steven Gerrard",
+"Roy Keane",
+"Paul Scholes"
+],
+"fx": "pix",
+"ar": 0.804,
+"credit": "Photo: John Dobson / CC BY-SA 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-sami-hyypi",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-sami-hyypi.webp",
+"a": "Sami Hyypiä",
+"w": [
+"John Terry",
+"Sol Campbell",
+"Olof Mellberg"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Дмитрий Неймырок/Dmitry Neymyrok/Dmitrij Nejmyrok / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-edwin-van-der-sar",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-edwin-van-der-sar.webp",
+"a": "Edwin van der Sar",
+"w": [
+"Tim Howard",
+"Shay Given",
+"Brad Friedel"
+],
+"fx": "pix",
+"ar": 0.801,
+"credit": "Photo: Web Summit / CC BY 2.0, Wikimedia Commons"
+},
+{
+"id": "pfb-frank-lampard",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-frank-lampard.webp",
+"a": "Frank Lampard",
+"w": [
+"Ryan Giggs",
+"Joe Cole",
+"Danny Murphy"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Mehdi Bolourian / CC BY 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-paolo-di-canio",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-paolo-di-canio.webp",
+"a": "Paolo Di Canio",
+"w": [
+"Francesco Totti",
+"Raúl",
+"Les Ferdinand"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Hilton Teper / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-zlatan-ibrahimovi",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-zlatan-ibrahimovi.webp",
+"a": "Zlatan Ibrahimović",
+"w": [
+"Hernán Crespo",
+"Niall Quinn",
+"Michael Owen"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Colleen Sturtevant / CC BY-SA 4.0, Wikimedia Commons"
+},
+{
+"id": "pfb-olof-mellberg",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-olof-mellberg.webp",
+"a": "Olof Mellberg",
+"w": [
+"Sol Campbell",
+"Ashley Cole",
+"Sami Hyypiä"
+],
+"fx": "pix",
+"ar": 0.803,
+"credit": "Photo: Ultraslansi / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-ashley-cole",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-ashley-cole.webp",
+"a": "Ashley Cole",
+"w": [
+"Paolo Maldini",
+"Sol Campbell",
+"Olof Mellberg"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Stanislav Vedmid / CC BY-SA 3.0, Wikimedia Commons"
+},
+{
+"id": "pfb-sol-campbell",
+"cat": "football",
+"q": "Who is this footballer?",
+"img": "img/fb-sol-campbell.webp",
+"a": "Sol Campbell",
+"w": [
+"Ashley Cole",
+"Sami Hyypiä",
+"Olof Mellberg"
+],
+"fx": "pix",
+"ar": 0.8,
+"credit": "Photo: Web Summit / CC BY 4.0, Wikimedia Commons"
+}
+],
+"balls": [
+{
+"id": "sb-2",
+"img": "img/ball-2.webp",
+"bx": 0.806,
+"by": 0.79,
+"ar": 1.333,
+"credit": "Photo: ConcreteOski / CC BY-SA 4.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-5",
+"img": "img/ball-5.webp",
+"bx": 0.068,
+"by": 0.616,
+"ar": 1.5,
+"credit": "Photo: mlsz.hu – the official website of the Hungarian Football Fed / Attribution, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-13",
+"img": "img/ball-13.webp",
+"bx": 0.45,
+"by": 0.525,
+"ar": 1.5,
+"credit": "Photo: PattayaPatrol / CC BY-SA 4.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-22",
+"img": "img/ball-22.webp",
+"bx": 0.8,
+"by": 0.806,
+"ar": 1.47,
+"credit": "Photo: Rick Dikeman / CC BY-SA 3.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-23",
+"img": "img/ball-23.webp",
+"bx": 0.255,
+"by": 0.89,
+"ar": 1.468,
+"credit": "Photo: Mikhail Slain / CC BY-SA 3.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-28",
+"img": "img/ball-28.webp",
+"bx": 0.393,
+"by": 0.818,
+"ar": 1.5,
+"credit": "Photo: Dominic Nelson / CC BY-SA 4.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-34",
+"img": "img/ball-34.webp",
+"bx": 0.387,
+"by": 0.937,
+"ar": 1.564,
+"credit": "Photo: Дмитрий Садовников for soccer.ru / CC BY-SA 3.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-35",
+"img": "img/ball-35.webp",
+"bx": 0.602,
+"by": 0.135,
+"ar": 1.505,
+"credit": "Photo: Master Sgt. John E. Lasky / Public domain, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-40",
+"img": "img/ball-40.webp",
+"bx": 0.59,
+"by": 0.143,
+"ar": 1.5,
+"credit": "Photo: Tadeáš Bednarz / CC BY-SA 4.0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-43",
+"img": "img/ball-43.webp",
+"bx": 0.582,
+"by": 0.736,
+"ar": 1.5,
+"credit": "Photo: Noah Riffe / CC0, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-45",
+"img": "img/ball-45.webp",
+"bx": 0.732,
+"by": 0.835,
+"ar": 1.587,
+"credit": "Photo: MSgt Sean M. Worrell / Public domain, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-47",
+"img": "img/ball-47.webp",
+"bx": 0.543,
+"by": 0.824,
+"ar": 1.486,
+"credit": "Photo: MSgt Sean M. Worrell / Public domain, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-50",
+"img": "img/ball-50.webp",
+"bx": 0.812,
+"by": 0.747,
+"ar": 1.5,
+"credit": "Photo: U.S. Marine Corps photo by Cpl. Caleb Goodwin / Public domain, Wikimedia Commons (ball removed)"
+},
+{
+"id": "sb-56",
+"img": "img/ball-56.webp",
+"bx": 0.683,
+"by": 0.692,
+"ar": 1.778,
+"credit": "Photo: Geraint Hill / CC BY-SA 4.0, Wikimedia Commons (ball removed)"
+}
+]
+}
